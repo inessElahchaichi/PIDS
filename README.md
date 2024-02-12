@@ -40,9 +40,7 @@ This project aims to streamline the handling of financial papers, such as balanc
 
 | ESPRIT | BFI GROUP | FIRM-AI |
 | ------ | --------- | ------- |
-| ![ESPRIT Logo](path/to/esprit_logo.png) | ![BFI GROUP Logo](path/to/![bfi_logo_2021 (2)](https://github.com/inessElahchaichi/PIDS/assets/115805947/9ebf6684-57fa-4a23-a2c3-56e8cbd65b41)
-bfi_logo.png) | ![FIRM-AI Logo](![DALL·E 2024-01-31 17 07 18 - Design a creative and minimalist logo for 'FIRM-AI' featuring a face made of AI elements  The logo should be in golden and red colors, symbolizing lux](https://github.com/inessElahchaichi/PIDS/assets/115805947/0929aeb5-d4f0-4a86-9211-61e3cd2342cd))
-/to/firm_ai_logo.png) |
+| ![ESPRIT Logo](https://github.com/inessElahchaichi/PIDS/assets/115805947/b4646e47-05a5-424f-b970-ec6d84436b47/esprit_logo.png) | ![BFI GROUP Logo](https://github.com/inessElahchaichi/PIDS/assets/115805947/9ebf6684-57fa-4a23-a2c3-56e8cbd65b41/bfi_logo.png) | ![FIRM-AI Logo](https://github.com/inessElahchaichi/PIDS/assets/115805947/0929aeb5-d4f0-4a86-9211-61e3cd2342cd/firm_ai_logo.png) |
 
 ## Acknowledgments
 
