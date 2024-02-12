@@ -4,11 +4,11 @@ Welcome to the Financial Document Automation Project by **FIRM-AI**, a collabora
 
 ## Team Members
 
-- Member 1 (Role/Expertise)
-- Member 2 (Role/Expertise)
-- Member 3 (Role/Expertise)
-- Member 4 (Role/Expertise)
-- Member 5 (Role/Expertise)
+- Emna FAZAA (Group Manager)
+- Mehdi FATHALLAH (Project Leader)
+- Iness ELAHCHAICHI (Team Leader)
+- Montassar MAIZA (Data scientist)
+- Rima BACHA (Data scientist)
 
 ## Collaborators
 
@@ -33,9 +33,3 @@ This project aims to streamline the handling of financial papers, such as balanc
 - Poppler for PDF processing.
 - Machine Learning libraries (e.g., scikit-learn, TensorFlow) for document classification.
 
-## Getting Started
-
-To get started with this project, clone the repository to your local machine:
-
-```bash
-git clone https://github.com/FIRM-AI/financial-document-automation.git
