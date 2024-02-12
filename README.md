@@ -5,10 +5,10 @@ Welcome to the Financial Document Automation Project by **FIRM-AI**, a collabora
 ## Team Members
 
 - Emna FAZAA (Group Manager)
-- Mehdi FATHALLAH (Project Leader)
-- Iness ELAHCHAICHI (Team Leader)
-- Montassar MAIZA (Data scientist)
-- Rima BACHA (Data scientist)
+- Mehdi FATHALLAH (Data Engineer)
+- Iness ELAHCHAICHI (Data scientist)
+- Montassar MAIZA (Web Developer)
+- Rima BACHA (Solution Architect)
 
 ## Collaborators
 
