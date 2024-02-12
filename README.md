@@ -40,11 +40,12 @@ This project aims to streamline the handling of financial papers, such as balanc
 
 | ESPRIT | BFI GROUP | FIRM-AI |
 | ------ | --------- | ------- |
-| ![ESPRIT Logo](https://github.com/inessElahchaichi/PIDS/assets/115805947/b4646e47-05a5-424f-b970-ec6d84436b47/esprit_logo.png) | ![BFI GROUP Logo](https://github.com/inessElahchaichi/PIDS/assets/115805947/9ebf6684-57fa-4a23-a2c3-56e8cbd65b41/bfi_logo.png) | ![FIRM-AI Logo](https://github.com/inessElahchaichi/PIDS/assets/115805947/0929aeb5-d4f0-4a86-9211-61e3cd2342cd/firm_ai_logo.png) |
+| ![ESPRIT Logo]((https://github.com/inessElahchaichi/PIDS/assets/115805947/65150431-7ae9-4088-892c-ac85011129c0)) | ![BFI GROUP Logo](https://github.com/inessElahchaichi/PIDS/assets/115805947/9ebf6684-57fa-4a23-a2c3-56e8cbd65b41/bfi_logo.png) | ![FIRM-AI Logo](https://github.com/inessElahchaichi/PIDS/assets/115805947/0929aeb5-d4f0-4a86-9211-61e3cd2342cd/firm_ai_logo.png) |
 
 ## Acknowledgments
 
 - **Wiem TRABELSI** and **Hanen ENNINE** for their expert guidance and supervision.
 - ESPRIT faculty and students for their dedication and hard work.
 - BFI GROUP for their invaluable domain expertise and support.
+
 
