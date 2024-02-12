@@ -44,7 +44,7 @@ This project aims to streamline the handling of financial papers, such as balanc
 
 ## Acknowledgments
 
-- **Wiem TRABELSI** and **Hanen ENNINE** for their expert guidance and supervision.
+- **Wiem TRABELSI** , **Hanen ENNINE** , **Sarra ZOUARI** for their expert guidance and supervision.
 - ESPRIT faculty and students for their dedication and hard work.
 - BFI GROUP for their invaluable domain expertise and support.
 
