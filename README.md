@@ -33,3 +33,15 @@ This project aims to streamline the handling of financial papers, such as balanc
 - Poppler for PDF processing.
 - Machine Learning libraries (e.g., scikit-learn, TensorFlow) for document classification.
 
+## Logos
+
+| ESPRIT | BFI GROUP | FIRM-AI |
+| ------ | --------- | ------- |
+| ![ESPRIT Logo](path/to/esprit_logo.png) | ![BFI GROUP Logo](path/to/bfi_logo.png) | ![FIRM-AI Logo](path/to/firm_ai_logo.png) |
+
+## Acknowledgments
+
+- **Wiem TRABELSI** and **Hanen ENNINE** for their expert guidance and supervision.
+- ESPRIT faculty and students for their dedication and hard work.
+- BFI GROUP for their invaluable domain expertise and support.
+
